@@ -1,6 +1,15 @@
 # spotify-icecast
 A project focused on spotify icecast.
 
+## Tags
+
+- spotify-icecast
+- spotify
+- docs
+- icecast
+- ui
+- mod
+
 ## Overview
 This repository contains the spotify-icecast project. It is designed to provide robust functionality and seamless integration within its ecosystem.
 
