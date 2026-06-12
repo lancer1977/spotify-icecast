@@ -26,8 +26,10 @@ This repository contains the spotify-icecast project. It is designed to provide 
 
 ## 📖 Documentation
 Detailed documentation can be found in the following sections:
+- [Docs Index](./docs/README.md)
 - [Feature Index](./docs/features/README.md)
 - [Core Capabilities](./docs/features/core-capabilities.md)
+- [Roadmap Index](./docs/roadmaps/README.md)
 
 ## 🚦 Getting Started
 Check project files for build and run instructions.
